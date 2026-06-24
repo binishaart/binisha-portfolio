@@ -7,11 +7,11 @@ Incorrect exercise form.
 
 Approach:
 Computer Vision and Pose Detection.
-LLM based chatbot
-BMI calculator
-performance tracker
-IOT simulator
-workout summary
+LLM based chatbot.
+BMI calculator.
+performance tracker.
+IOT simulator.
+workout summary.
 
 
 Result:
