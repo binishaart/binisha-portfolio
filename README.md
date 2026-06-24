@@ -55,3 +55,17 @@ Live Demo: https://drive.google.com/file/d/1L2zw8aDdINiADM0FbZtJ34f6XyYZbOtG/vie
 
 
 
+## Reinforcement Learning Project
+
+Problem: Traditional rule-based systems struggle to make optimal decisions in dynamic and changing environments.
+
+Approach: Implemented Reinforcement Learning techniques in Python to train an intelligent agent through reward-based learning. Used environment interaction, policy optimization, and iterative learning to improve decision-making performance.
+
+Result: Developed an autonomous learning agent capable of making improved decisions over time by maximizing cumulative rewards.
+
+Repository: https://github.com/binishaart/Reinforcement-Learning-Project.git
+
+Live Demo: https://drive.google.com/file/d/1876ZNt4myuU4df5lxLOShBBNO1rnfQTr/view?usp=sharing
+
+
+
