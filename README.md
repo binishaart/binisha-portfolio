@@ -41,3 +41,17 @@ Successfully developed a centralized sports management platform that simplifies 
 
 
 
+## Project 1
+
+Problem: Analyzing and extracting meaningful insights from data to support better decision-making.
+
+Approach: Performed data preprocessing, exploratory data analysis, visualization, and applied Python-based analytical techniques using Jupyter Notebook.
+
+Result: Generated actionable insights through data analysis and visualizations, enabling better understanding of patterns and trends.
+
+Repository: https://github.com/binishaart/project1.git
+
+Live Demo: https://drive.google.com/file/d/1L2zw8aDdINiADM0FbZtJ34f6XyYZbOtG/view?usp=drivesdk
+
+
+
