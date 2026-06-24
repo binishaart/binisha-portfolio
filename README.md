@@ -27,24 +27,17 @@ https://fitai-dashboard-mxoehe6ufbd2t3zk6s6dpw.streamlit.app/
 
 ## Smart Sports Management System
 
- Problem:
+ Problem:Managing sports events, teams, player records, and performance data manually can be time-consuming and difficult to organize efficiently.
 
-Managing sports events, teams, player records, and performance data manually can be time-consuming and difficult to organize efficiently.
-
- Approach:
-
-Developed a Smart Sports Management System using Python to streamline sports administration and athlete management.
+ Approach:Developed a Smart Sports Management System using Python to streamline sports administration and athlete management.
 
  Result:
 
 Successfully developed a centralized sports management platform that simplifies player management, event coordination, and performance monitoring.
 
- Repository:
+ Repository:https://github.com/binishaart/sports-management
 
-https://github.com/binishaart/sports-management
+ Live Demo:https://drive.google.com/file/d/1RezJspLq9ChiEZANKGq8eh7Op1hYy7sQ/view?usp=sharing
 
- Live Demo:
-
-(Add your demo link here)
 
 
