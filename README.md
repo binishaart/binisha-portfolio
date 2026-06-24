@@ -69,3 +69,15 @@ Live Demo: https://drive.google.com/file/d/1876ZNt4myuU4df5lxLOShBBNO1rnfQTr/vie
 
 
 
+## YOLOv8 Object Detection System
+
+Problem: Manual object identification in images and videos is time-consuming and inefficient for real-time applications.
+
+Approach: Implemented a YOLOv8-based computer vision model using Python for real-time object detection and recognition. Performed image processing, model inference, and object classification to identify multiple objects accurately.
+
+Result: Developed an automated object detection system capable of identifying and localizing objects in images and video streams with high accuracy and speed.
+
+Repository: https://github.com/binishaart/YOLOv8.git
+
+Live Demo: https://drive.google.com/file/d/16d25swzKetfxcFNyM1nutblFuHm41Nk-/view?usp=drivesdk
+
