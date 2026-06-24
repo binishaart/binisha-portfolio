@@ -81,3 +81,17 @@ Repository: https://github.com/binishaart/YOLOv8.git
 
 Live Demo: https://drive.google.com/file/d/16d25swzKetfxcFNyM1nutblFuHm41Nk-/view?usp=drivesdk
 
+
+
+## Exploratory Data Analysis (EDA) Project
+
+Problem: Raw datasets often contain hidden patterns, trends, and inconsistencies that are difficult to identify without systematic analysis.
+
+Approach: Performed data cleaning, preprocessing, statistical analysis, and visualization using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Explored relationships between variables and identified key insights from the dataset.
+
+Result: Generated meaningful insights, identified data trends and patterns, and created visualizations to support data-driven decision-making.
+
+Repository: https://github.com/binishaart/EDA.git
+
+Live Demo: https://docs.google.com/document/d/17vOxZJoagKmVQlU1XPP58gzbHiY09P8b32JEHBr4mYc/edit?usp=drivesdk
+
