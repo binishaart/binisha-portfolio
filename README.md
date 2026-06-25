@@ -95,3 +95,18 @@ Repository: https://github.com/binishaart/EDA.git
 
 Live Demo: https://docs.google.com/document/d/17vOxZJoagKmVQlU1XPP58gzbHiY09P8b32JEHBr4mYc/edit?usp=drivesdk
 
+
+
+
+## AWS S3 Static Website Hosting
+
+Problem: Need for a cost-effective and scalable way to host a static website on the cloud.
+
+Approach: Created and configured an Amazon S3 bucket. Uploaded website files, enabled Static Website Hosting, configured Public Access and Bucket Policies, enabled Versioning, and configured S3 Storage Class settings.
+
+Result: Successfully deployed and hosted a static website on AWS S3 with public accessibility, version control, and cloud storage management features.
+
+Repository: https://github.com/binishaart/aws-s3-static-website-hosting
+
+Live Demo: http://binisha-website-project.s3-website.eu-north-1.amazonaws.com
+
