@@ -116,10 +116,10 @@ Live Demo: http://binisha-website-project.s3-website.eu-north-1.amazonaws.com
 
 ## AWS Secure Infrastructure
 
- Problem
+ Problem:
 Building a secure cloud infrastructure with proper access control and network security using AWS.
 
- Approach
+ Approach:
 - Created IAM Users and Groups (Admins & Developers)
 - Implemented Custom IAM Policies based on the Principle of Least Privilege
 - Configured a Virtual Private Cloud (VPC)
@@ -131,7 +131,7 @@ Building a secure cloud infrastructure with proper access control and network se
 - Installed and configured Apache Web Server
 - Tested IAM permissions using the Developer account
 
- Result
+ Result:
 Successfully built a secure AWS cloud infrastructure with controlled user permissions, secure networking, and a web server hosted on Amazon EC2 following AWS security best practices.
 
  Technologies Used
@@ -144,9 +144,8 @@ Successfully built a secure AWS cloud infrastructure with controlled user permis
 - Route Tables
 - Apache HTTP Server
 
- Repository
+ Repository- https://github.com/binishaart/aws-vpc-iam-ec2-security.git
  
 
-
- Live Demo
+Live Demo
 https://drive.google.com/file/d/1F2Fcv_Ql_B3nhukU3DlHM9_R97_teB-H/view?usp=sharing
