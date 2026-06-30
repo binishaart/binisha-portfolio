@@ -110,3 +110,43 @@ Repository: https://github.com/binishaart/aws-s3-static-website-hosting
 
 Live Demo: http://binisha-website-project.s3-website.eu-north-1.amazonaws.com
 
+
+
+
+
+## AWS Secure Infrastructure
+
+ Problem
+Building a secure cloud infrastructure with proper access control and network security using AWS.
+
+ Approach
+- Created IAM Users and Groups (Admins & Developers)
+- Implemented Custom IAM Policies based on the Principle of Least Privilege
+- Configured a Virtual Private Cloud (VPC)
+- Created a Public Subnet
+- Attached an Internet Gateway
+- Configured Route Tables
+- Implemented Security Groups and Network ACLs
+- Launched an Amazon EC2 Instance
+- Installed and configured Apache Web Server
+- Tested IAM permissions using the Developer account
+
+ Result
+Successfully built a secure AWS cloud infrastructure with controlled user permissions, secure networking, and a web server hosted on Amazon EC2 following AWS security best practices.
+
+ Technologies Used
+- AWS IAM
+- Amazon VPC
+- Amazon EC2
+- Security Groups
+- Network ACLs
+- Internet Gateway
+- Route Tables
+- Apache HTTP Server
+
+ Repository
+ 
+
+
+ Live Demo
+https://drive.google.com/file/d/1F2Fcv_Ql_B3nhukU3DlHM9_R97_teB-H/view?usp=sharing
